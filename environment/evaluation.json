@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "system": "Forall-Lean-Agent",
+  "benchmark": "PutnamBench",
+  "benchmark_repository": "https://github.com/trishullab/PutnamBench",
+  "benchmark_commit": "b3e08943b1728842194fe2df693f02c763da4294",
+  "variant": "wsolution",
+  "problem_count": 672,
+  "model": "Opus 5",
+  "model_identifier": "claude-opus-5",
+  "effort": "xhigh",
+  "snapshot_date": "2026-09-15",
+  "result_source": "author_retained_evaluation_records",
+  "resource_scope": "retained_final_task_records",
+  "summary_population": "reviewed_accepted",
+  "runtime_unit": "seconds",
+  "currency": "USD",
+  "token_unit": "tokens"
+}

@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "snapshot_date": "2026-09-15",
+  "total_problems": 672,
+  "accepted_problems": 671,
+  "statement_false_problems": 1,
+  "accepted_fraction_all_tasks": 0.9985119047619048,
+  "accepted_fraction_excluding_statement_false": 1.0,
+  "resource_population": "reviewed_accepted",
+  "resource_population_size": 671,
+  "review_round_counts": {
+    "1": 661,
+    "2": 10
+  },
+  "tasks_with_continuations": 21,
+  "resources": {
+    "compilations": {
+      "n": 671,
+      "minimum": 1.0,
+      "median": 7.0,
+      "mean": 8.90611,
+      "p90": 18.0,
+      "maximum": 56.0,
+      "total": 5976.0
+    },
+    "submissions": {
+      "n": 671,
+      "minimum": 1.0,
+      "median": 1.0,
+      "mean": 1.026826,
+      "p90": 1.0,
+      "maximum": 2.0,
+      "total": 689.0
+    },
+    "review_rounds": {
+      "n": 671,
+      "minimum": 1.0,
+      "median": 1.0,
+      "mean": 1.014903,
+      "p90": 1.0,
+      "maximum": 2.0,
+      "total": 681.0
+    },
+    "actor_turns": {
+      "n": 671,
+      "minimum": 6.0,
+      "median": 31.0,
+      "mean": 34.795827,
+      "p90": 60.0,
+      "maximum": 169.0,
+      "total": 23348.0
+    },
+    "continuation_requests": {
+      "n": 671,
+      "minimum": 0.0,
+      "median": 0.0,
+      "mean": 0.032787,
+      "p90": 0.0,
+      "maximum": 2.0,
+      "total": 22.0
+    },
+    "elapsed_seconds": {
+      "n": 671,
+      "minimum": 222.0,
+      "median": 1636.0,
+      "mean": 2140.275708,
+      "p90": 4081.0,
+      "maximum": 12672.0,
+      "total": 1436125.0
+    },
+    "actor_cost_usd": {
+      "n": 671,
+      "minimum": 0.2701,
+      "median": 2.487,
+      "mean": 3.502573,
+      "p90": 7.2149,
+      "maximum": 34.012,
+      "total": 2350.2267
+    },
+    "reviewer_cost_usd": {
+      "n": 671,
+      "minimum": 0.309024,
+      "median": 1.135246,
+      "mean": 1.197346,
+      "p90": 1.756026,
+      "maximum": 4.66307,
+      "total": 803.419486
+    },
+    "total_cost_usd": {
+      "n": 671,
+      "minimum": 0.68912,
+      "median": 3.629057,
+      "mean": 4.69992,
+      "p90": 8.674821,
+      "maximum": 36.036416,
+      "total": 3153.646186
+    },
+    "input_tokens": {
+      "n": 671,
+      "minimum": 551842.0,
+      "median": 2444961.0,
+      "mean": 3465270.277198,
+      "p90": 6923006.0,
+      "maximum": 44674199.0,
+      "total": 2325196356.0
+    },
+    "output_tokens": {
+      "n": 671,
+      "minimum": 7357.0,
+      "median": 59157.0,
+      "mean": 74737.470939,
+      "p90": 132233.0,
+      "maximum": 651993.0,
+      "total": 50148843.0
+    }
+  }
+}

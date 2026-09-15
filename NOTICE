@@ -1,0 +1,10 @@
+Forall PutnamBench
+Copyright 2026 Astrio, Inc.
+
+This release contains evaluation metadata and analysis scripts for Forall-Lean-Agent.
+It identifies PutnamBench and its dependency revisions for reproducibility.
+
+PutnamBench is developed by George Tsoukalas, Jasper Lee, John Jennings,
+Jimmy Xin, Michelle Ding, Michael Jennings, Amitayush Thakur, and
+Swarat Chaudhuri. Its Lean formalizations are distributed under Apache 2.0.
+The benchmark itself is available from https://github.com/trishullab/PutnamBench.

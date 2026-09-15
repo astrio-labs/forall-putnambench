@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "Please cite this repository and the PutnamBench paper when using these results."
+title: "Forall PutnamBench evaluation metadata"
+type: dataset
+authors:
+  - name: "Astrio, Inc."
+repository-code: "https://github.com/astrio-labs/forall-putnambench"
+url: "https://github.com/astrio-labs/forall-putnambench"
+date-released: 2026-09-15
+license: Apache-2.0
+references:
+  - type: article
+    title: "PutnamBench: Evaluating Neural Theorem-Provers on the Putnam Mathematical Competition"
+    authors:
+      - family-names: Tsoukalas
+        given-names: George
+      - family-names: Lee
+        given-names: Jasper
+      - family-names: Jennings
+        given-names: John
+      - family-names: Xin
+        given-names: Jimmy
+      - family-names: Ding
+        given-names: Michelle
+      - family-names: Jennings
+        given-names: Michael
+      - family-names: Thakur
+        given-names: Amitayush
+      - family-names: Chaudhuri
+        given-names: Swarat
+    year: 2024
+    url: "https://arxiv.org/abs/2407.11214"
