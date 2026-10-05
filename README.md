@@ -1,5 +1,8 @@
 # Forall PutnamBench
 
+[![arXiv](https://img.shields.io/badge/arXiv-2610.00885-b31b1b.svg)](https://arxiv.org/abs/2610.00885)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+
 Evaluation results for [Forall-Lean-Agent](https://github.com/astrio-labs/forall-lean-agent) on [PutnamBench](https://github.com/trishullab/PutnamBench), released by [Astrio](https://github.com/astrio-labs).
 
 This repository publishes result metadata, environment pins, artifact hashes, and scripts that reproduce the resource summaries. The snapshot contains 672 evaluated problems using Opus 5 at xhigh effort in the answer-given configuration.
@@ -59,11 +62,22 @@ Artifact hashes identify the retained files. A matching hash alone does not esta
 
 Solution proofs, refutations, intermediate proof steps, transcripts, and compiler diagnostics are withheld in accordance with [PutnamBench's request to avoid public proof releases](https://github.com/trishullab/PutnamBench#readme). Verification evidence can be shared privately through the benchmark maintainers' process.
 
-## Related paper
-
-Forall-Lean-Agent for Auditable Reasoning in Formal Mathematics and Software Verification.
-
 ## Citation and license
+
+If you use these results or Forall-Lean-Agent, please cite the [FORALL paper](https://arxiv.org/abs/2610.00885):
+
+```bibtex
+@misc{lwin2026forallleanagentauditablereasoningformal,
+  title={FORALL-LEAN-AGENT for Auditable Reasoning in Formal Mathematics and Software Verification},
+  author={Naing Oo Lwin},
+  year={2026},
+  eprint={2610.00885},
+  archivePrefix={arXiv},
+  primaryClass={cs.SE},
+  doi={10.48550/arXiv.2610.00885},
+  url={https://arxiv.org/abs/2610.00885}
+}
+```
 
 Please cite [PutnamBench](https://arxiv.org/abs/2407.11214) when using the benchmark. Repository citation metadata is provided in [CITATION.cff](CITATION.cff).
 

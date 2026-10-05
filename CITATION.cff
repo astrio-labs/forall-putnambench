@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Please cite this repository and the PutnamBench paper when using these results."
+message: "Please cite the FORALL-LEAN-AGENT paper, this repository, and the PutnamBench paper when using these results."
 title: "Forall PutnamBench evaluation metadata"
 type: dataset
 authors:
@@ -8,6 +8,15 @@ repository-code: "https://github.com/astrio-labs/forall-putnambench"
 url: "https://github.com/astrio-labs/forall-putnambench"
 date-released: 2026-09-15
 license: Apache-2.0
+preferred-citation:
+  type: article
+  title: "FORALL-LEAN-AGENT for Auditable Reasoning in Formal Mathematics and Software Verification"
+  authors:
+    - family-names: Lwin
+      given-names: Naing Oo
+  year: 2026
+  doi: "10.48550/arXiv.2610.00885"
+  url: "https://arxiv.org/abs/2610.00885"
 references:
   - type: article
     title: "PutnamBench: Evaluating Neural Theorem-Provers on the Putnam Mathematical Competition"
