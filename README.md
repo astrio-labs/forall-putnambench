@@ -3,7 +3,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2610.00885-b31b1b.svg)](https://arxiv.org/abs/2610.00885)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 
-Evaluation results for [Forall-Lean-Agent](https://github.com/astrio-labs/forall-lean-agent) on [PutnamBench](https://github.com/trishullab/PutnamBench), released by [Astrio](https://github.com/astrio-labs).
+Evaluation results for Forall-Lean-Agent on [PutnamBench](https://github.com/trishullab/PutnamBench), released by [Astrio](https://github.com/astrio-labs).
 
 This repository publishes result metadata, environment pins, artifact hashes, and scripts that reproduce the resource summaries. The snapshot contains 672 evaluated problems using Opus 5 at xhigh effort in the answer-given configuration.
 
