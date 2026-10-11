@@ -7,7 +7,7 @@ Evaluation results for Forall-Lean-Agent on [PutnamBench](https://github.com/tri
 
 This repository publishes result metadata, environment pins, artifact hashes, and scripts that reproduce the resource summaries. The snapshot contains 672 evaluated problems using Opus 5 at xhigh effort in the answer-given configuration.
 
-The [research source repository](https://github.com/astrio-labs/forall-lean-agent) now provides the PutnamBench actor and reviewer harness, original prompts, verification code, and shared Lean MCP tools under Apache-2.0. It uses a separately installed Claude Code client and a user-provided model account. Its [release notes](https://github.com/astrio-labs/forall-lean-agent/blob/main/docs/release-scope.md) document packaging changes from the historical implementation. Benchmark solution proofs remain private.
+Forall-Lean-Agent's research source, with the PutnamBench actor and reviewer harness, original prompts, verification code, and shared Lean MCP tools, is not public yet. The harness uses a separately installed Claude Code client and a user-provided model account. Benchmark solution proofs remain private.
 
 | Outcome | Problems |
 | --- | --- |
